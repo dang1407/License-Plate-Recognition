@@ -9,3 +9,7 @@ pyyaml
 requests
 pandas
 seaborn
+flask
+flask_cors
+picamera
+time
