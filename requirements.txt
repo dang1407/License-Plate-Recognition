@@ -13,3 +13,4 @@ flask
 flask_cors
 picamera
 time
+websockets
