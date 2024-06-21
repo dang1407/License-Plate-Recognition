@@ -1,6 +1,6 @@
 opencv-python
 matplotlib
-numpy==1.24.0
+numpy
 Pillow
 torch
 torchvision
@@ -12,5 +12,4 @@ seaborn
 flask
 flask_cors
 picamera
-time
 websockets
