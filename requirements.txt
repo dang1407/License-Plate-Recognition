@@ -1,6 +1,7 @@
+python >= 3.11
 opencv-python
 matplotlib
-numpy
+numpy==1.24.0
 Pillow
 torch
 torchvision
